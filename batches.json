@@ -1,0 +1,182 @@
+{
+  "nilavuku": {
+    "chat_id": -1002528637058,
+    "start": 3,
+    "end": 8,
+    "code": "nila1604"
+  },
+  "Door": {
+    "chat_id": -1002528637058,
+    "start": 258,
+    "end": 263,
+    "code": "door1604"
+  },
+  "Manamey": {
+    "chat_id": -1002528637058,
+    "start": 264,
+    "end": 269,
+    "code": "mana1604"
+  },
+  "Lovedale": {
+    "chat_id": -1002528637058,
+    "start": 275,
+    "end": 280,
+    "code": "love1604"
+  },
+  "Maramamass": {
+    "chat_id": -1002528637058,
+    "start": 176,
+    "end": 181,
+    "code": "mara1604"
+  },
+  "Gangers": {
+    "chat_id": -1002528637058,
+    "start": 162,
+    "end": 167,
+    "code": "gang1604"
+  },
+  "cinta": {
+    "chat_id": -1002528637058,
+    "start": 156,
+    "end": 161,
+    "code": "cint1604"
+  },
+  "Hours": {
+    "chat_id": -1002528637058,
+    "start": 32,
+    "end": 37,
+    "code": "hour1604"
+  },
+  "jack": {
+    "chat_id": -1002528637058,
+    "start": 56,
+    "end": 61,
+    "code": "jack1604"
+  },
+  "Tourist Family": {
+    "chat_id": -1002528637058,
+    "start": 782,
+    "end": 788,
+    "code": "tour1604"
+  },
+  "Degree": {
+    "chat_id": -1002528637058,
+    "start": 317,
+    "end": 321,
+    "code": "degr1604"
+  },
+  "Maaman": {
+    "chat_id": -1002528637058,
+    "start": 658,
+    "end": 664,
+    "code": "maam1604"
+  },
+  "Jora": {
+    "chat_id": -1002528637058,
+    "start": 844,
+    "end": 851,
+    "code": "jora1604"
+  },
+  "Nesippaya": {
+    "chat_id": -1002528637058,
+    "start": 252,
+    "end": 257,
+    "code": "nesi1604"
+  },
+  "Eleven": {
+    "chat_id": -1002528637058,
+    "start": 878,
+    "end": 884,
+    "code": "elev1604"
+  },
+  "Sumo": {
+    "chat_id": -1002528637058,
+    "start": 390,
+    "end": 397,
+    "code": "sumo1604"
+  },
+  "Jinn": {
+    "chat_id": -1002528637058,
+    "start": 885,
+    "end": 893,
+    "code": "jinn1604"
+  },
+  "Padai Thalaivan": {
+    "chat_id": -1002528637058,
+    "start": 904,
+    "end": 911,
+    "code": "pada1604"
+  },
+  "Kuberaa": {
+    "chat_id": -1002528637058,
+    "start": 912,
+    "end": 918,
+    "code": "kube1604"
+  },
+  "Padai": {
+    "chat_id": -1002528637058,
+    "start": 904,
+    "end": 911,
+    "code": "pada1604"
+  },
+  "V$r$dict": {
+    "chat_id": -1002528637058,
+    "start": 943,
+    "end": 950,
+    "code": "v$r$1604"
+  },
+  "vIeIrIdIiIcIt": {
+    "chat_id": -1002528637058,
+    "start": 943,
+    "end": 950,
+    "code": "viei1604"
+  },
+  "AVVeeeeduu": {
+    "chat_id": -1002528637058,
+    "start": 919,
+    "end": 925,
+    "code": "avve1604"
+  },
+  "PalumPalam": {
+    "chat_id": -1002528637058,
+    "start": 936,
+    "end": 942,
+    "code": "palu1604"
+  },
+  "GhaItikach": {
+    "chat_id": -1002528637058,
+    "start": 965,
+    "end": 970,
+    "code": "ghai1604"
+  },
+  "SuIbhaIm": {
+    "chat_id": -1002528637058,
+    "start": 971,
+    "end": 978,
+    "code": "suib1604"
+  },
+  "CleaIner": {
+    "chat_id": -1002528637058,
+    "start": 952,
+    "end": 955,
+    "code": "clea1604"
+  },
+  "CrIImInaIl": {
+    "chat_id": -1002528637058,
+    "start": 956,
+    "end": 964,
+    "code": "crii1604"
+  },
+  "SaaIreeI": {
+    "chat_id": -1002528637058,
+    "start": 979,
+    "end": 985,
+    "code": "saai1604"
+  },
+  "HtTmD": {
+    "chat_id": -1002528637058,
+    "start": 986,
+    "end": 991,
+    "code": "httm1604"
+  }
+}
