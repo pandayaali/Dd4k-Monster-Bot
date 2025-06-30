@@ -2,9 +2,9 @@
   "name": "dd4k-bot",
   "version": "1.0.0",
   "description": "DD4K Secure Bot",
-  "main": "bot.js",
+  "main": "",
   "scripts": {
-    "start": "node bot.js"
+    "start": ""
   },
   "dependencies": {
     "archiver": "^5.3.1",
