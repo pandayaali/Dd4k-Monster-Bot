@@ -1,0 +1,14 @@
+{
+  "start": {
+    "message_id": 951,
+    "button1": {
+      "text": "Main Channel ✨",
+      "link": "https://t.me/DD4K_Twins"
+    },
+    "button2": {
+      "text": "Series Channel ✨",
+      "link": "https://t.me/DD4K_5_Wednezday"
+    }
+  },
+  "permanent": "DD4K's Twins"
+}
