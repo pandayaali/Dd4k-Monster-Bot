@@ -30,7 +30,7 @@ app.get("/ping", (req, res) => res.send("DD4K Monster Bot is Running..."));
 app.listen(3000);
 
 // 🤖 BOT INITIALIZE
-const bot = new Telegraf("7830019009:AAHOdewOa6uzJkkYOHxa0VsQ5myOXT1NYTs");
+const bot = new Telegraf("");
 
 // 🛡️ ADMIN IDs
 const forceSubChannels = ["@DD4K_Twins", "@DD4K_5_Wednezday"];
